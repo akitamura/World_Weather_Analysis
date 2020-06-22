@@ -24,6 +24,8 @@
   - Code found under Vacation_Search.ipynb
   - Database found under WeatherPy_vacation.csv under data
   - Resulting Images:
+  
+  
     ![Total Vacation Map](image/WeatherPy_Vacation_Map.PNG)
     ![Map with Pop-up](image/WeatherPy_Vacation_Map_PopUp.PNG)
     
@@ -31,6 +33,9 @@
   Create a Travel Itinerary with a Corresponding Map
   - Code found under Vacation_Itinerary.ipynb
   - Resulting Images:
+  
+  
+  
    ![Travel Map with Route](image/WeatherPy_Travel_Map.PNG)
    ![Travel Map with Markers](image/WeatherPy_Vacation_Map_PopUp.PNG)
   
