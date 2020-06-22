@@ -24,13 +24,13 @@ Part 2:
   - Code found under Vacation_Search.ipynb
   - Database found under WeatherPy_vacation.csv under data
   - Resulting Images:
-    ![Total Vacation Map](WeatherPy_Vacation_Map.PNG)
-    ![Map with Pop-up](WeatherPy_Vacation_Map_PopUp.PNG)
+    ![Total Vacation Map](image/WeatherPy_Vacation_Map.PNG)
+    ![Map with Pop-up](image/WeatherPy_Vacation_Map_PopUp.PNG)
     
 Part 3:
   Create a Travel Itinerary with a Corresponding Map
   - Code found under Vacation_Itinerary.ipynb
   - Resulting Images:
-   ![Travel Map with Route](WeatherPy_Travel_Map.PNG)
-   ![Travel Map with Markers](WeatherPy_Vacation_Map_PopUp.PNG)
+   ![Travel Map with Route](image/WeatherPy_Travel_Map.PNG)
+   ![Travel Map with Markers](image/WeatherPy_Vacation_Map_PopUp.PNG)
   
